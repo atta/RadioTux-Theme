@@ -342,7 +342,7 @@ a:hover {
 	margin: 0 0 18px 0;
 	width: 100%;
 	vertical-align:middle;
-	background-image:url("http://192.168.178.69/blog/wp-content/themes/RadioTux/images/opacity.png");
+	background-image:url("images/opacity.png");
 }
 #site-title a {
 	color: #000;
@@ -378,7 +378,7 @@ a:hover {
   float: right;
 }
 #site-title #button #play {
-  background-image:url("http://192.168.178.69/blog/wp-content/themes/RadioTux/images/play/play.png");
+  background-image:url("images/play/play.png");
   background-repeat:no-repeat;
   width: 60px;
   height: 60px;
@@ -387,7 +387,7 @@ a:hover {
 }
 
 #branding #button #play:hover {
-  background-image:url("http://192.168.178.69/blog/wp-content/themes/RadioTux/images/play/play_hover.png");
+  background-image:url("images/play/play_hover.png");
 }
 /* =Menu
 -------------------------------------------------------------- */
