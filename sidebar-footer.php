@@ -3,8 +3,8 @@
  * The Footer widget areas.
  *
  * @package WordPress
- * @subpackage Twenty_Ten
- * @since Twenty Ten 1.0
+ * @subpackage RadioTux
+ * @since RadioTux 1.0
  */
 ?>
 

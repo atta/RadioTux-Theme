@@ -4,7 +4,7 @@
  *
  * @package WordPress
  * @subpackage RadioTux
- * @since RadioTux 2.0
+ * @since RadioTux 1.0
  */
 ?>
 <form method="get" id="searchform" action="<?php bloginfo('home'); ?>/">

@@ -34,8 +34,8 @@
  * For more information on hooks, actions, and filters, see http://codex.wordpress.org/Plugin_API.
  *
  * @package WordPress
- * @subpackage Twenty_Ten
- * @since Twenty Ten 1.0
+ * @subpackage RadioTux
+ * @since RadioTux 1.0
  */
 
 /**
@@ -70,7 +70,7 @@ if ( ! function_exists( 'twentyten_setup' ) ):
  * @uses register_default_headers() To register the default custom header images provided with the theme.
  * @uses set_post_thumbnail_size() To set a custom post thumbnail size.
  *
- * @since Twenty Ten 1.0
+ * @since RadioTux 1.0
  */
 function twentyten_setup() {
 
